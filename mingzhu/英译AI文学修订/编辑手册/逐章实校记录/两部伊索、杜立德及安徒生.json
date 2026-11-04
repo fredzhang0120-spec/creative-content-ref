@@ -1,0 +1,6078 @@
+{
+  "19994": {
+    "chapters_total": 147,
+    "chapters_reviewed": [
+      {
+        "chapter": 1,
+        "title": "狼给小山羊吹笛",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "乌龟和野鸭",
+        "source_read": [
+          1,
+          10
+        ],
+        "translated_read": [
+          1,
+          10
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "小螃蟹和妈妈",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "青蛙和牛",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "狗、公鸡和狐狸",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "谁去给猫挂铃铛",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "鹰和寒鸦",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "男孩和榛子",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "大力神和赶车人",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "屋顶上的小山羊和狼",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "城里鼠和乡下鼠",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "狐狸和葡萄",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "一捆树枝",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "狼和鹤",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 15,
+        "title": "驴和赶驴人",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 16,
+        "title": "牛和车轮",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 17,
+        "title": "狮子和小老鼠",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 18,
+        "title": "放羊娃和狼",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 19,
+        "title": "小蚊虫和公牛",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 20,
+        "title": "悬铃木",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 21,
+        "title": "农夫和鹳",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 22,
+        "title": "羊和猪",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 23,
+        "title": "旅人和钱袋",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 24,
+        "title": "狮子和驴",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 25,
+        "title": "想要国王的青蛙",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 26,
+        "title": "猫头鹰和蚂蚱",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 27,
+        "title": "狼和自己的影子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 28,
+        "title": "橡树和芦苇",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 29,
+        "title": "老鼠和大象",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 30,
+        "title": "男孩们和青蛙",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 31,
+        "title": "乌鸦和水罐",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 32,
+        "title": "蚂蚁和蚂蚱",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 33,
+        "title": "驮神像的驴",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 34,
+        "title": "渡鸦和天鹅",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 35,
+        "title": "两只山羊",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 36,
+        "title": "驴和一驮盐",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 37,
+        "title": "狮子和小蚊虫",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 38,
+        "title": "在罗得岛上的一跳",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 39,
+        "title": "公鸡和宝石",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 40,
+        "title": "猴子和骆驼",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 41,
+        "title": "野猪和狐狸",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 42,
+        "title": "驴、狐狸和狮子",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 43,
+        "title": "飞鸟、走兽和蝙蝠",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 44,
+        "title": "狮子、熊和狐狸",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 45,
+        "title": "狼和小羊羔",
+        "source_read": [
+          1,
+          11
+        ],
+        "translated_read": [
+          1,
+          11
+        ]
+      },
+      {
+        "chapter": 46,
+        "title": "狼和绵羊",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 47,
+        "title": "野兔和青蛙",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 48,
+        "title": "狐狸请鹳吃饭",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 49,
+        "title": "海边的两个旅人",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 50,
+        "title": "狼和狮子",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 51,
+        "title": "雄鹿和水中的倒影",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 52,
+        "title": "孔雀",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 53,
+        "title": "鼠军大战黄鼠狼",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 54,
+        "title": "狼和瘦狗",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 55,
+        "title": "狐狸和狮子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 56,
+        "title": "狮子和驴一起打猎",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 57,
+        "title": "狗和主人的午饭",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 58,
+        "title": "寒鸦借来的羽毛",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 59,
+        "title": "猴子和海豚",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 60,
+        "title": "狼替驴拔刺",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 61,
+        "title": "猴子和猫",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 62,
+        "title": "狗和狐狸",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 63,
+        "title": "狗和皮革",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 64,
+        "title": "兔子、黄鼠狼和猫",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 65,
+        "title": "熊和蜜蜂",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 66,
+        "title": "狐狸和豹子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 67,
+        "title": "苍鹭",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 68,
+        "title": "公鸡和狐狸讲和",
+        "source_read": [
+          1,
+          12
+        ],
+        "translated_read": [
+          1,
+          12
+        ]
+      },
+      {
+        "chapter": 69,
+        "title": "马槽里的狗",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 70,
+        "title": "狼和山羊",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 71,
+        "title": "驴和蚂蚱",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 72,
+        "title": "骡子",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 73,
+        "title": "狐狸和井里的山羊",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 74,
+        "title": "猫、公鸡和小老鼠",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 75,
+        "title": "狼替牧人看羊",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 76,
+        "title": "孔雀和鹤",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 77,
+        "title": "农夫和鹤群",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 78,
+        "title": "农夫和儿子们",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 79,
+        "title": "铜罐和陶罐",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 80,
+        "title": "下金蛋的鹅",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 81,
+        "title": "争斗的公牛和青蛙",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 82,
+        "title": "老鼠和黄鼠狼",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 83,
+        "title": "农夫和蛇",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 84,
+        "title": "生病的雄鹿",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 85,
+        "title": "牧羊人和野山羊",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 86,
+        "title": "浪荡子和燕子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 87,
+        "title": "猫给鸟看病",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 88,
+        "title": "狗和牡蛎",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 89,
+        "title": "仰头看星的占星人",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 90,
+        "title": "三头小公牛和狮子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 91,
+        "title": "墨丘利和樵夫",
+        "source_read": [
+          1,
+          11
+        ],
+        "translated_read": [
+          1,
+          11
+        ]
+      },
+      {
+        "chapter": 92,
+        "title": "青蛙和寻奇的小老鼠",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 93,
+        "title": "狐狸和螃蟹",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 94,
+        "title": "蛇和鹰",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 95,
+        "title": "披着羊皮的狼",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 96,
+        "title": "公牛和山羊",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 97,
+        "title": "鹰和甲虫",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 98,
+        "title": "老狮子和狐狸",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 99,
+        "title": "人和狮子",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 100,
+        "title": "驴和小哈巴狗",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 101,
+        "title": "挤奶姑娘和牛奶桶",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 102,
+        "title": "狼看牧人吃烤羊",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 103,
+        "title": "牧羊人和断角的羊",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 104,
+        "title": "守财奴",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 105,
+        "title": "狼和家犬",
+        "source_read": [
+          1,
+          16
+        ],
+        "translated_read": [
+          1,
+          16
+        ]
+      },
+      {
+        "chapter": 106,
+        "title": "狐狸和刺猬",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 107,
+        "title": "蝙蝠和两只黄鼠狼",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 108,
+        "title": "冒牌大夫癞蛤蟆",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 109,
+        "title": "没了尾巴的狐狸",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 110,
+        "title": "爱闯祸的狗",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 111,
+        "title": "玫瑰和蝴蝶",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 112,
+        "title": "猫和一袋子主意",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 113,
+        "title": "男孩和荨麻",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 114,
+        "title": "老狮子",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 115,
+        "title": "狐狸和野鸡",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 116,
+        "title": "两个旅人和熊",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 117,
+        "title": "豪猪和蛇",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 118,
+        "title": "狐狸和猴王",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 119,
+        "title": "母亲和狼",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 120,
+        "title": "苍蝇和蜂蜜",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 121,
+        "title": "鹰和鸢",
+        "source_read": [
+          1,
+          10
+        ],
+        "translated_read": [
+          1,
+          10
+        ]
+      },
+      {
+        "chapter": 122,
+        "title": "雄鹿、绵羊和狼",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 123,
+        "title": "动物们和瘟疫",
+        "source_read": [
+          1,
+          13
+        ],
+        "translated_read": [
+          1,
+          13
+        ]
+      },
+      {
+        "chapter": 124,
+        "title": "牧羊人和狮子",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 125,
+        "title": "狗和水里的影子",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 126,
+        "title": "龟兔赛跑",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 127,
+        "title": "蜜蜂、黄蜂和法官胡蜂",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 128,
+        "title": "云雀一家",
+        "source_read": [
+          1,
+          10
+        ],
+        "translated_read": [
+          1,
+          10
+        ]
+      },
+      {
+        "chapter": 129,
+        "title": "猫和老鼠长者",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 130,
+        "title": "狐狸和乌鸦",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 131,
+        "title": "驴和它的影子",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 132,
+        "title": "磨坊主、他的儿子和驴",
+        "source_read": [
+          1,
+          16
+        ],
+        "translated_read": [
+          1,
+          16
+        ]
+      },
+      {
+        "chapter": 133,
+        "title": "蚂蚁和鸽子",
+        "source_read": [
+          1,
+          3
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 134,
+        "title": "人和萨堤尔",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 135,
+        "title": "狼、小山羊和山羊妈妈",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 136,
+        "title": "燕子和乌鸦",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 137,
+        "title": "朱庇特和猴宝宝",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 138,
+        "title": "狮子、驴和狐狸分猎物",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 139,
+        "title": "狮子那一份",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 140,
+        "title": "小鼹鼠和妈妈",
+        "source_read": [
+          1,
+          7
+        ],
+        "translated_read": [
+          1,
+          7
+        ]
+      },
+      {
+        "chapter": 141,
+        "title": "北风和太阳",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 142,
+        "title": "野兔的长耳朵",
+        "source_read": [
+          1,
+          6
+        ],
+        "translated_read": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 143,
+        "title": "狼群和羊群",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 144,
+        "title": "公鸡遇见落网的狐狸",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 145,
+        "title": "披着狮皮的驴",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 146,
+        "title": "渔夫和小鱼",
+        "source_read": [
+          1,
+          5
+        ],
+        "translated_read": [
+          1,
+          5
+        ]
+      },
+      {
+        "chapter": 147,
+        "title": "斗鸡和鹰",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      }
+    ],
+    "edition_basis": "所附英文与相应中文正文逐段核读；非原始语言版本的，以所附底本为准。",
+    "new_edits": 18
+  },
+  "21": {
+    "chapters_total": 316,
+    "chapters_reviewed": [
+      {
+        "chapter": 1,
+        "title": "序",
+        "source_read": [
+          1,
+          24
+        ],
+        "translated_read": [
+          1,
+          24
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "伊索生平",
+        "source_read": [
+          1,
+          4
+        ],
+        "translated_read": [
+          1,
+          4
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "狮子和老鼠",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "狼和小羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "驴和蚱蜢",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "狼和鹤",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "父亲与儿子们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "蝙蝠和黄鼠狼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "公鸡和宝石",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "燕子和乌鸦",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "狮子的王国",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "赶路的人和狗",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "蚂蚁和蚱蜢",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "野兔与乌龟",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 15,
+        "title": "烧炭人和漂布人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 16,
+        "title": "捉蝗虫的男孩",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 17,
+        "title": "吹笛子的渔夫",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 18,
+        "title": "狗与倒影",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 19,
+        "title": "大力神与赶车人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 20,
+        "title": "鼹鼠和妈妈",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 21,
+        "title": "牧人和走失的公牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 22,
+        "title": "小鹿和母亲",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 23,
+        "title": "驴、狐狸和狮子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 24,
+        "title": "苍蝇和蜜罐",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 25,
+        "title": "母狮",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 26,
+        "title": "农夫和蛇",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 27,
+        "title": "人和狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 28,
+        "title": "石榴树、苹果树和荆棘",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 29,
+        "title": "农夫和鹳",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 30,
+        "title": "大山临产",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 31,
+        "title": "熊和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 32,
+        "title": "龟和鹰",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 33,
+        "title": "狐狸和山羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 34,
+        "title": "渡鸦和天鹅",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 35,
+        "title": "口渴的鸽子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 36,
+        "title": "占着马槽的狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 37,
+        "title": "拉车的牛和车轴",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          3
+        ]
+      },
+      {
+        "chapter": 38,
+        "title": "农夫和鹤",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 39,
+        "title": "生病的狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 40,
+        "title": "熊和两个旅行人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 41,
+        "title": "失去尾巴的狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 42,
+        "title": "猫和公鸡",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 43,
+        "title": "披着羊皮的狼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 44,
+        "title": "山羊和牧羊人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 45,
+        "title": "爱吹牛的旅行人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 46,
+        "title": "恋爱中的狮子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 47,
+        "title": "守财奴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 48,
+        "title": "小猪、绵羊和山羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 49,
+        "title": "攥着榛子的孩子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 50,
+        "title": "请求国王的青蛙",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 51,
+        "title": "干活的人与蛇",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 52,
+        "title": "狮子、老鼠和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 53,
+        "title": "马和马夫",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 54,
+        "title": "驴和骡",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 55,
+        "title": "驴和哈巴狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 56,
+        "title": "牛群和屠夫",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 57,
+        "title": "牧童和狼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 58,
+        "title": "孩子们和青蛙",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 59,
+        "title": "盐商与驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 60,
+        "title": "爱闹事的狗",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 61,
+        "title": "牧羊人和野山羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 62,
+        "title": "男子和他的两位心上人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 63,
+        "title": "生病的雄鹿",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 64,
+        "title": "男孩和荨麻",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 65,
+        "title": "看星星的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 66,
+        "title": "狼群和羊群",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 67,
+        "title": "猫和鸟",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 68,
+        "title": "虚荣的寒鸦",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 69,
+        "title": "小山羊和狼（其一）",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 70,
+        "title": "老妇与医生",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 71,
+        "title": "牛和青蛙",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 72,
+        "title": "农夫和儿子们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 73,
+        "title": "小母牛和公牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 74,
+        "title": "斗鸡与鹰",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 75,
+        "title": "战马和磨坊主",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 76,
+        "title": "狐狸和猴子（其一）",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 77,
+        "title": "马和骑手",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 78,
+        "title": "肚子和四肢",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 79,
+        "title": "寡妇和她的小女仆们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 80,
+        "title": "葡萄藤和山羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 81,
+        "title": "朱庇特和猴子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 82,
+        "title": "苍鹰、鸢和鸽群",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 83,
+        "title": "海豚、鲸和小鲱鱼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 84,
+        "title": "燕子、大蛇和法庭",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 85,
+        "title": "两只罐子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 86,
+        "title": "牧羊人和狼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 87,
+        "title": "螃蟹和母亲",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 88,
+        "title": "父亲和两个女儿",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 89,
+        "title": "小偷和母亲",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 90,
+        "title": "老人和死神",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 91,
+        "title": "冷杉和荆棘",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 92,
+        "title": "埃塞俄比亚人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 93,
+        "title": "老鼠、青蛙和鹰",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 94,
+        "title": "渔夫和渔网",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 95,
+        "title": "狼和绵羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 96,
+        "title": "老妇和酒坛",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 97,
+        "title": "被狗咬的人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 98,
+        "title": "猎人和渔夫",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 99,
+        "title": "狐狸和乌鸦",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 100,
+        "title": "寡妇和绵羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 101,
+        "title": "贪玩的驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 102,
+        "title": "牛栏里的雄鹿",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 103,
+        "title": "两只狗",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 104,
+        "title": "野驴和狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 105,
+        "title": "狮子和海豚",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 106,
+        "title": "鹰和箭",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 107,
+        "title": "生病的鸢",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 108,
+        "title": "狮子和野猪",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 109,
+        "title": "老鼠开会",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 110,
+        "title": "独眼母鹿",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 111,
+        "title": "老鼠和黄鼠狼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 112,
+        "title": "牧羊人和海",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 113,
+        "title": "驴、公鸡和狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 114,
+        "title": "江河与海",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 115,
+        "title": "野猪和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 116,
+        "title": "卖奶妇和奶桶",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 117,
+        "title": "蜜蜂和朱庇特",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 118,
+        "title": "狼和看家狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 119,
+        "title": "三个手艺人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 120,
+        "title": "驮神像的驴",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 121,
+        "title": "主人和狗",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 122,
+        "title": "老猎犬",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 123,
+        "title": "两个旅行人和斧子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 124,
+        "title": "老狮子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 125,
+        "title": "狼和牧羊人们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 126,
+        "title": "海边的旅行人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 127,
+        "title": "驴和它的影子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 128,
+        "title": "驴和它的几任主人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 129,
+        "title": "墨丘利与雕刻家",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 130,
+        "title": "狐狸与樵夫",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 131,
+        "title": "橡树和芦苇",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 132,
+        "title": "农家院子里的狮子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 133,
+        "title": "狼和狮子（其一）",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 134,
+        "title": "捕鸟人、鹧鸪和公鸡",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 135,
+        "title": "蚂蚁和鸽子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 136,
+        "title": "野兔和青蛙",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 137,
+        "title": "猴子与渔夫们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 138,
+        "title": "天鹅和鹅",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 139,
+        "title": "母鹿和狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 140,
+        "title": "渔夫和小鱼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 141,
+        "title": "猎人与樵夫",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 142,
+        "title": "肚子胀大的狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 143,
+        "title": "两只青蛙（其一）",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 144,
+        "title": "灯",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 145,
+        "title": "骆驼与阿拉伯人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 146,
+        "title": "磨坊主、儿子和驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 147,
+        "title": "猫和老鼠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 148,
+        "title": "老鼠和公牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 149,
+        "title": "狗与厨师",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 150,
+        "title": "小偷们和公鸡",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 151,
+        "title": "跳舞的猴子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 152,
+        "title": "农夫和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 153,
+        "title": "旅行人与命运女神",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 154,
+        "title": "海鸥和鸢",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 155,
+        "title": "狮子、熊和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 156,
+        "title": "哲学家、蚂蚁和墨丘利",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 157,
+        "title": "农民和鹰",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 158,
+        "title": "狐狸和豹子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 159,
+        "title": "狮子和野兔",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 160,
+        "title": "墨丘利的神像与木匠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 161,
+        "title": "狮子、狐狸和驴",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 162,
+        "title": "公牛和山羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 163,
+        "title": "秃头骑士",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 164,
+        "title": "橡树与朱庇特",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 165,
+        "title": "猴宝宝和妈妈",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 166,
+        "title": "野兔和猎犬",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 167,
+        "title": "牧羊人和狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 168,
+        "title": "橡树和伐木人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 169,
+        "title": "黄蜂和蛇",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 170,
+        "title": "孔雀和鹤",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 171,
+        "title": "下金蛋的母鸡",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 172,
+        "title": "驴和青蛙",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 173,
+        "title": "乌鸦和渡鸦",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 174,
+        "title": "树木和斧子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 175,
+        "title": "狼群和牧羊犬",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 176,
+        "title": "公牛、母狮和猎野猪的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 177,
+        "title": "弓箭手与狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 178,
+        "title": "骆驼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 179,
+        "title": "螃蟹和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 180,
+        "title": "驴和老牧羊人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 181,
+        "title": "狐狸和刺猬",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 182,
+        "title": "妇人和母鸡",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 183,
+        "title": "鸢和天鹅",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 184,
+        "title": "狗和野兔",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 185,
+        "title": "野兔和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 186,
+        "title": "公牛和小牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 187,
+        "title": "雄鹿、狼和绵羊",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 188,
+        "title": "鹰、猫和母野猪",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 189,
+        "title": "狼和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 190,
+        "title": "骡子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 191,
+        "title": "预言家",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 192,
+        "title": "两只青蛙（其二）",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 193,
+        "title": "蛇和鹰",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 194,
+        "title": "乌鸦和水罐",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 195,
+        "title": "小偷与店主",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 196,
+        "title": "雄鹿和葡萄藤",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 197,
+        "title": "蚊子和狮子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 198,
+        "title": "狐狸和葡萄",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 199,
+        "title": "胡桃树",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 200,
+        "title": "小山羊和狼（其二）",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 201,
+        "title": "猴子和海豚",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 202,
+        "title": "马和雄鹿",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 203,
+        "title": "寒鸦和鸽群",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 204,
+        "title": "狐狸和猴子（其二）",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 205,
+        "title": "男人和妻子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 206,
+        "title": "人、马、牛和狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 207,
+        "title": "小偷和看家狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 208,
+        "title": "猿与两个旅行人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 209,
+        "title": "狐狸和狮子（其一）",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 210,
+        "title": "黄鼠狼和老鼠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 211,
+        "title": "洗澡的男孩",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 212,
+        "title": "孔雀与朱诺",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 213,
+        "title": "狼和牧羊人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 214,
+        "title": "野兔和狮子们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 215,
+        "title": "卖神像的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 216,
+        "title": "鹰和夜莺",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 217,
+        "title": "云雀和雏鸟",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 218,
+        "title": "狗、公鸡和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 219,
+        "title": "鹅和鹤",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 220,
+        "title": "驴和狼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 221,
+        "title": "山羊和驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 222,
+        "title": "狮子和公牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 223,
+        "title": "狐狸和面具",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 224,
+        "title": "蚱蜢和猫头鹰",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 225,
+        "title": "捕鸟人和毒蛇",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 226,
+        "title": "马和驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 227,
+        "title": "狮子和三头公牛",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 228,
+        "title": "狼和山羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 229,
+        "title": "苍蝇和拉车的骡子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 230,
+        "title": "渔夫们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 231,
+        "title": "城里鼠和乡下鼠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 232,
+        "title": "狼、狐狸和猿",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 233,
+        "title": "黄蜂、鹧鸪和农夫",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 234,
+        "title": "哥哥和妹妹",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 235,
+        "title": "狗和狐狸",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 236,
+        "title": "盲人和幼兽",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 237,
+        "title": "改行做医生的鞋匠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 238,
+        "title": "狼和马",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 239,
+        "title": "两个互相仇视的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 240,
+        "title": "斗鸡和鹧鸪",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 241,
+        "title": "狐狸和狮子（其二）",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 242,
+        "title": "冒充名医的青蛙",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 243,
+        "title": "狮子、狼和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 244,
+        "title": "狗的房子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 245,
+        "title": "北风和太阳",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 246,
+        "title": "乌鸦和墨丘利",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 247,
+        "title": "狐狸和鹤",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 248,
+        "title": "狼和狮子（其二）",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 249,
+        "title": "鸟类、走兽和蝙蝠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 250,
+        "title": "浪子与燕子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 251,
+        "title": "被俘的号手",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 252,
+        "title": "猫头鹰和群鸟",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 253,
+        "title": "福与祸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 254,
+        "title": "披狮皮的驴",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 255,
+        "title": "麻雀和野兔",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 256,
+        "title": "跳蚤和公牛",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 257,
+        "title": "驴和买驴的人",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 258,
+        "title": "鸽子和乌鸦",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 259,
+        "title": "人与森林之神",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 260,
+        "title": "朱庇特、尼普顿、密涅瓦和摩摩斯",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 261,
+        "title": "鹰和寒鸦",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 262,
+        "title": "鹰和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 263,
+        "title": "两只袋子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 264,
+        "title": "母狗和小狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 265,
+        "title": "池边的雄鹿",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 266,
+        "title": "埋葬父亲的云雀",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 267,
+        "title": "蚊子和公牛",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 268,
+        "title": "猴子和骆驼",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 269,
+        "title": "狗和兽皮",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 270,
+        "title": "寒鸦和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 271,
+        "title": "墨丘利和干活的人们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 272,
+        "title": "农民和苹果树",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 273,
+        "title": "两个士兵和强盗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 274,
+        "title": "牧人和绵羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 275,
+        "title": "受众神庇护的树",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 276,
+        "title": "跳蚤和摔跤手",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 277,
+        "title": "狮子和狐狸",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 278,
+        "title": "真理和旅行人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 279,
+        "title": "杀人的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 280,
+        "title": "狮子和鹰",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 281,
+        "title": "驴和赶驴人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 282,
+        "title": "画眉和捕鸟人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 283,
+        "title": "母亲和狼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 284,
+        "title": "母鸡和燕子",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 285,
+        "title": "玫瑰和不凋花",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 286,
+        "title": "旅行人和悬铃木",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 287,
+        "title": "驴和马",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 288,
+        "title": "乌鸦和绵羊",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 289,
+        "title": "狐狸和荆棘",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 290,
+        "title": "驴和战马",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 291,
+        "title": "狮子、朱庇特和大象",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 292,
+        "title": "狗和牡蛎",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 293,
+        "title": "骡子和强盗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 294,
+        "title": "小羊和狼",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 295,
+        "title": "鹧鸪和捕鸟人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 296,
+        "title": "跳蚤和人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 297,
+        "title": "富翁和皮匠",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 298,
+        "title": "毒蛇和锉刀",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 299,
+        "title": "狮子和牧羊人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 300,
+        "title": "骆驼和朱庇特",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 301,
+        "title": "豹子和牧羊人们",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 302,
+        "title": "鹰和鸢",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 303,
+        "title": "鹰和捉鹰人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 304,
+        "title": "王子和画里的狮子",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 305,
+        "title": "猫与维纳斯",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 306,
+        "title": "鹰和甲虫",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 307,
+        "title": "母山羊和它们的胡须",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 308,
+        "title": "秃头和苍蝇",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 309,
+        "title": "遇海难的人与海",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 310,
+        "title": "小丑和乡下人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 311,
+        "title": "乌鸦和蛇",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 312,
+        "title": "猎人和骑马的人",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 313,
+        "title": "橄榄树和无花果树",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 314,
+        "title": "青蛙对太阳的怨言",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 315,
+        "title": "铜匠和他的狗",
+        "source_read": [
+          1,
+          1
+        ],
+        "translated_read": [
+          1,
+          1
+        ]
+      },
+      {
+        "chapter": 316,
+        "title": "尾注",
+        "source_read": [
+          1,
+          21
+        ],
+        "translated_read": [
+          1,
+          21
+        ]
+      }
+    ],
+    "edition_basis": "所附英文与相应中文正文逐段核读；非原始语言版本的，以所附底本为准。",
+    "new_edits": 25
+  },
+  "501": {
+    "chapters_total": 23,
+    "chapters_reviewed": [
+      {
+        "chapter": 1,
+        "title": "献词",
+        "source_read": [
+          1,
+          2
+        ],
+        "translated_read": [
+          1,
+          2
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "第十次印刷序言",
+        "source_read": [
+          1,
+          8
+        ],
+        "translated_read": [
+          1,
+          8
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "第1章　沼泽边的帕德尔比",
+        "source_read": [
+          1,
+          15
+        ],
+        "translated_read": [
+          1,
+          14
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "第2章　动物的语言",
+        "source_read": [
+          1,
+          51
+        ],
+        "translated_read": [
+          1,
+          51
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "第3章　又为钱犯难",
+        "source_read": [
+          1,
+          25
+        ],
+        "translated_read": [
+          1,
+          25
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "第4章　来自非洲的消息",
+        "source_read": [
+          1,
+          38
+        ],
+        "translated_read": [
+          1,
+          38
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "第5章　大旅行",
+        "source_read": [
+          1,
+          40
+        ],
+        "translated_read": [
+          1,
+          40
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "第6章　波利尼西亚和国王",
+        "source_read": [
+          1,
+          35
+        ],
+        "translated_read": [
+          1,
+          35
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "第7章　群猿搭桥",
+        "source_read": [
+          1,
+          40
+        ],
+        "translated_read": [
+          1,
+          40
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "第8章　狮群首领",
+        "source_read": [
+          1,
+          26
+        ],
+        "translated_read": [
+          1,
+          26
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "第9章　猴子议事",
+        "source_read": [
+          1,
+          36
+        ],
+        "translated_read": [
+          1,
+          36
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "第10章　最罕见的动物",
+        "source_read": [
+          1,
+          36
+        ],
+        "translated_read": [
+          1,
+          36
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "第11章　黑人王子",
+        "source_read": [
+          1,
+          34
+        ],
+        "translated_read": [
+          1,
+          34
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "第12章　医药与魔法",
+        "source_read": [
+          1,
+          45
+        ],
+        "translated_read": [
+          1,
+          45
+        ]
+      },
+      {
+        "chapter": 15,
+        "title": "第13章　红帆与蓝翅膀",
+        "source_read": [
+          1,
+          25
+        ],
+        "translated_read": [
+          1,
+          25
+        ]
+      },
+      {
+        "chapter": 16,
+        "title": "第14章　老鼠的警告",
+        "source_read": [
+          1,
+          28
+        ],
+        "translated_read": [
+          1,
+          28
+        ]
+      },
+      {
+        "chapter": 17,
+        "title": "第15章　巴巴里恶龙",
+        "source_read": [
+          1,
+          43
+        ],
+        "translated_read": [
+          1,
+          43
+        ]
+      },
+      {
+        "chapter": 18,
+        "title": "第16章　善于聆听的图图",
+        "source_read": [
+          1,
+          29
+        ],
+        "translated_read": [
+          1,
+          29
+        ]
+      },
+      {
+        "chapter": 19,
+        "title": "第17章　海上的消息灵通人士",
+        "source_read": [
+          1,
+          36
+        ],
+        "translated_read": [
+          1,
+          36
+        ]
+      },
+      {
+        "chapter": 20,
+        "title": "第18章　气味",
+        "source_read": [
+          1,
+          50
+        ],
+        "translated_read": [
+          1,
+          50
+        ]
+      },
+      {
+        "chapter": 21,
+        "title": "第19章　礁石",
+        "source_read": [
+          1,
+          44
+        ],
+        "translated_read": [
+          1,
+          44
+        ]
+      },
+      {
+        "chapter": 22,
+        "title": "第20章　渔夫的小镇",
+        "source_read": [
+          1,
+          32
+        ],
+        "translated_read": [
+          1,
+          32
+        ]
+      },
+      {
+        "chapter": 23,
+        "title": "第21章　重返家园",
+        "source_read": [
+          1,
+          21
+        ],
+        "translated_read": [
+          1,
+          21
+        ]
+      }
+    ],
+    "edition_basis": "所附英文与相应中文正文逐段核读；非原始语言版本的，以所附底本为准。",
+    "new_edits": 46
+  },
+  "1597": {
+    "chapters_total": 18,
+    "chapters_reviewed": [
+      {
+        "chapter": 1,
+        "title": "皇帝的新衣",
+        "source_read": [
+          1,
+          31
+        ],
+        "translated_read": [
+          1,
+          28
+        ]
+      },
+      {
+        "chapter": 2,
+        "title": "牧猪人",
+        "source_read": [
+          1,
+          57
+        ],
+        "translated_read": [
+          1,
+          57
+        ]
+      },
+      {
+        "chapter": 3,
+        "title": "豌豆公主",
+        "source_read": [
+          1,
+          9
+        ],
+        "translated_read": [
+          1,
+          9
+        ]
+      },
+      {
+        "chapter": 4,
+        "title": "幸运套鞋",
+        "source_read": [
+          1,
+          199
+        ],
+        "translated_read": [
+          1,
+          199
+        ]
+      },
+      {
+        "chapter": 5,
+        "title": "枞树",
+        "source_read": [
+          1,
+          64
+        ],
+        "translated_read": [
+          1,
+          64
+        ]
+      },
+      {
+        "chapter": 6,
+        "title": "冰雪女王",
+        "source_read": [
+          1,
+          201
+        ],
+        "translated_read": [
+          1,
+          201
+        ]
+      },
+      {
+        "chapter": 7,
+        "title": "跳高比赛",
+        "source_read": [
+          1,
+          16
+        ],
+        "translated_read": [
+          1,
+          13
+        ]
+      },
+      {
+        "chapter": 8,
+        "title": "接骨木树",
+        "source_read": [
+          1,
+          51
+        ],
+        "translated_read": [
+          1,
+          51
+        ]
+      },
+      {
+        "chapter": 9,
+        "title": "钟声",
+        "source_read": [
+          1,
+          19
+        ],
+        "translated_read": [
+          1,
+          19
+        ]
+      },
+      {
+        "chapter": 10,
+        "title": "老房子",
+        "source_read": [
+          1,
+          54
+        ],
+        "translated_read": [
+          1,
+          54
+        ]
+      },
+      {
+        "chapter": 11,
+        "title": "幸福的一家",
+        "source_read": [
+          1,
+          21
+        ],
+        "translated_read": [
+          1,
+          21
+        ]
+      },
+      {
+        "chapter": 12,
+        "title": "一位母亲的故事",
+        "source_read": [
+          1,
+          47
+        ],
+        "translated_read": [
+          1,
+          47
+        ]
+      },
+      {
+        "chapter": 13,
+        "title": "假领子",
+        "source_read": [
+          1,
+          25
+        ],
+        "translated_read": [
+          1,
+          25
+        ]
+      },
+      {
+        "chapter": 14,
+        "title": "影子",
+        "source_read": [
+          1,
+          88
+        ],
+        "translated_read": [
+          1,
+          88
+        ]
+      },
+      {
+        "chapter": 15,
+        "title": "卖火柴的小女孩",
+        "source_read": [
+          1,
+          12
+        ],
+        "translated_read": [
+          1,
+          12
+        ]
+      },
+      {
+        "chapter": 16,
+        "title": "小图克的梦",
+        "source_read": [
+          1,
+          26
+        ],
+        "translated_read": [
+          1,
+          26
+        ]
+      },
+      {
+        "chapter": 17,
+        "title": "淘气的男孩",
+        "source_read": [
+          1,
+          14
+        ],
+        "translated_read": [
+          1,
+          14
+        ]
+      },
+      {
+        "chapter": 18,
+        "title": "红鞋",
+        "source_read": [
+          1,
+          42
+        ],
+        "translated_read": [
+          1,
+          42
+        ]
+      }
+    ],
+    "edition_basis": "所附英文与相应中文正文逐段核读；非原始语言版本的，以所附底本为准。",
+    "new_edits": 41
+  }
+}

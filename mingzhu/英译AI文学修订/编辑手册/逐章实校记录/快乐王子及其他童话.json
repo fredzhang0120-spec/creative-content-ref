@@ -1,0 +1,100 @@
+{
+  "id": "902",
+  "work": "快乐王子及其他童话",
+  "method": "逐节从头读到尾，对照所附英文与全部中文段；英语合段处按同一连续场景检查，结合段落前后的说话人、时态、物件和语气。已在tales.jsonl存档的8处避免重复。由AI进行双语文学编辑。",
+  "sections": [
+    {
+      "chapter": 1,
+      "title": "献词",
+      "source_read": [
+        1,
+        1
+      ],
+      "translated_read": [
+        1,
+        1
+      ],
+      "new_edits": 0,
+      "previous_edits": 0
+    },
+    {
+      "chapter": 2,
+      "title": "快乐王子",
+      "source_read": [
+        1,
+        85
+      ],
+      "translated_read": [
+        1,
+        64
+      ],
+      "new_edits": 9,
+      "previous_edits": 1
+    },
+    {
+      "chapter": 3,
+      "title": "夜莺与玫瑰",
+      "source_read": [
+        1,
+        62
+      ],
+      "translated_read": [
+        1,
+        62
+      ],
+      "new_edits": 4,
+      "previous_edits": 3
+    },
+    {
+      "chapter": 4,
+      "title": "自私的巨人",
+      "source_read": [
+        1,
+        32
+      ],
+      "translated_read": [
+        1,
+        29
+      ],
+      "new_edits": 3,
+      "previous_edits": 1
+    },
+    {
+      "chapter": 5,
+      "title": "忠实的朋友",
+      "source_read": [
+        1,
+        113
+      ],
+      "translated_read": [
+        1,
+        113
+      ],
+      "new_edits": 8,
+      "previous_edits": 0
+    },
+    {
+      "chapter": 6,
+      "title": "了不起的火箭",
+      "source_read": [
+        1,
+        105
+      ],
+      "translated_read": [
+        1,
+        105
+      ],
+      "new_edits": 7,
+      "previous_edits": 3
+    }
+  ],
+  "total_source_paragraphs": 398,
+  "total_target_paragraphs": 374,
+  "evidence": [
+    "献词核对受献人。《快乐王子》从芦苇手势、啄宝石与每次留下的问答，核至铅心与小鸟被拣回。原有“禁止鸟儿死在这里”“每一个议员都要铸自己的像”等黑色笑意保留。",
+    "《夜莺与玫瑰》三株花树的不同颜色、月光中的夜歌、换宝石的学生和姑娘全部对读；“哲学”“形而上学”和谁也听不懂谁的反衬保留。",
+    "《自私的巨人》注意孩子与高墙内外的时态反差、风霜冰雹的访客口吻、钉痕与最后的白花。",
+    "《忠实的朋友》核清绿雀讲的故事、被水鼠打断、故事结束后回到池塘的嵌套层次；独轮车始终没有真正送出去，“呸”首尾照应。",
+    "《了不起的火箭》分辨烟花自夸、动物声音和旁白。保留零薪加倍、盐火/烟火、自欺的错听、无人看到和无人听到两个短句及熄灭前的夸口。"
+  ]
+}
